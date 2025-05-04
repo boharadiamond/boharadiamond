@@ -9,4 +9,7 @@ boharadiamond/boharadiamond is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![ML Enthusiast](https://img.shields.io/badge/Machine%20Learning-Enthusiast-blue?style=for-the-badge&logo=python)
+![Computer Engineer](https://img.shields.io/badge/Computer%20Engineering-Student-green?style=for-the-badge)
+
 
