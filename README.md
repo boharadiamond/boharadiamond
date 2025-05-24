@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Diamond</h1>
 <h3 align="center">A passionate Computer Engineering student and aspiring AI/ML Engineer.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif")
+(img align="right" alt="Coding" width="350" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boharadiamond&label=Profile%20views&color=0e75b6&style=flat" alt="boharadiamond" /> </p>
